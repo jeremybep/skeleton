@@ -1,0 +1,22 @@
+{
+  "name": "skeleton",
+  "version": "0.0.0",
+  "description": "Basic skeleton repository",
+  "private": false,
+  "keywords": [
+    "skeleton",
+    "repository",
+    "sample"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeremybep/skeleton.git"
+  },
+  "homepage": "https://github.com/jeremybep/skeleton#readme",
+  "bugs": "https://github.com/jeremybep/skeleton/issues",
+  "author": {
+    "email": "jeremy.bepoix@gmail.com",
+    "name": "skeleton"
+  },
+  "license": "LGPL-3.0"
+}
